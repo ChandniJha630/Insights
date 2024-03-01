@@ -1,15 +1,15 @@
 # Insights
-Blogging Social Media
+Social Media App
 
 ## Features
 ### Login SignUp
 ### Add posts
 ### All Posts
-
-## Working on Features
-
 ### Edit, Delete and Update Post Functionality
 ### User Profile 
 ### User Posts
+
+## Future Scope 
+
 ### Likes comments
 ### Searching algorithm
